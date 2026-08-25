@@ -1,3 +1,3 @@
 ## Ratesync
 
-## Rate convert
+## Rate
