@@ -1,5 +1,3 @@
 # Ratesync
 
 ## Ratesync
-
-### Ratesync
